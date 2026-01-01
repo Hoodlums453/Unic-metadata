@@ -1,0 +1,16 @@
+{
+  "name": "UNICOIN",
+  "symbol": "UNIC",
+  "description": "Unicoin test token on Meteora",
+  "image": "https://raw.githubusercontent.com/Hoodlums453/Unic-metadata/refs/heads/main/unicoin.jpeg",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "unicoin.jpeg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
+  }
+}
